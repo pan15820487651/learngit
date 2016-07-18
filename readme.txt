@@ -1,2 +1,2 @@
-Edison is a version control system
-Edison is free software
+steven is a version control system
+steven is free software
