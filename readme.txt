@@ -1,2 +1,2 @@
-Git is a version control system
-Git is free software
+Edison is a version control system
+Edison is free software
